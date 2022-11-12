@@ -14,7 +14,7 @@ Increase code efficiency, scalability & portability
 
 Augment impact and usability of your research products
 
-
+*****************************************************************************************************************************************************
 
 # Part 2-  https://colab.research.google.com/drive/19pvJw7hkE6JYm3m4AQ6_JBDwmcwYBQ7_?usp=sharing
 
@@ -40,3 +40,6 @@ Use an active learning agent to choose the next samples to be labeled based on t
 Update the labeled set to include the newly chosen samples and remove them from the unlabeled set.
 
 I have used the clothing-dataset-small.
+
+
+*****************************************************************************************************************************************************
