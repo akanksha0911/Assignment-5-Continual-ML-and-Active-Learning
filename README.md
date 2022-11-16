@@ -43,3 +43,5 @@ I have used the clothing-dataset-small.
 
 
 *****************************************************************************************************************************************************
+
+# Part 3: Part 3 is in this repository-  https://github.com/akanksha0911/assignment-5_part-3.  with all the artifacts and code.
