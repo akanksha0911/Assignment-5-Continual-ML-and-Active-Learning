@@ -1,6 +1,8 @@
 # Assignment-5-Continual-ML-and-Active-Learning
 Continual ML and Active Learning
 
+# NOTE-  PART 3- https://github.com/akanksha0911/assignment-5_part-3 , in this repository.
+
 
 # Part 1- https://colab.research.google.com/drive/1K28HlJddGhlckmBp0c9yMgyplVjBDCHR?usp=sharing-
 
